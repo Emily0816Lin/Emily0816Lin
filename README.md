@@ -4,7 +4,7 @@
 ---  
 ## 🚀 About Me  
 - 🎓 I'm a CS graduate focused on **Cloud Computing, AI, and DevOps**.
-- 🌟 I'm experienced as a full-stack developer, creating an admin system for a website that supports individuals with disabilities.
+- 🌟 I'm experienced as a **full-stack developer**, creating an admin system for a website that supports individuals with disabilities.
 - 🔭 I'm building my **personal website** to showcase and update projects.  
 - 🌱 I'm expanding my knowledge in **advanced Cloud & DevOps practices**.  
 - ⚡ Fun fact: I like pizza crust more than the toppings! 🍕  
