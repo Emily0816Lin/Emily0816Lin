@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emily Lin</h1>  
-<h3 align="center">💻 A Full-Stack Developer | Cloud & DevOps Engineer </h3>  
+<h3 align="center">💻 A Full-Stack Developer | ☁ Cloud & DevOps Engineer </h3>  
 
 ---  
 ## 🚀 About Me  
