@@ -26,10 +26,8 @@
 - [AWDEA](https://awdea.org/): Inclusive website for individuals with disabilities, featuring a **secure donation system** and **admin management**.  
 - [Ready Bee…Bee Ready!](https://bby-24.web.app/): Emergency preparedness planning app with **secure database** for storing plans and supply kits.  
 
-
 ---
 ## 🛠️ Tech Stack
-
 ### Languages
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com/)
@@ -62,11 +60,11 @@
 [![Render](https://img.shields.io/badge/-Render-333333?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
 
 ### Databases
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Amazon RDS](https://img.shields.io/badge/-Amazon_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)](https://aws.amazon.com/rds/)
 [![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)](https://aws.amazon.com/dynamodb/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 ### Technologies
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
@@ -83,7 +81,6 @@
 ### Operating Systems
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/en-ca/windows)
-
 
 ---
 ## 📊 GitHub Stats:
