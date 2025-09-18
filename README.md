@@ -11,8 +11,8 @@
 
 ---
 ## 📫 Connect with Me
-- 📧 Email: [emilysmileee@gmail.com](mailto:emilysmileee@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/emily-l-54a945291](https://www.linkedin.com/in/emily-l-54a945291/)  
+- 📧 Email: [emilysmileee@gmail.com](mailto:emilysmileee@gmail.com)  
 - 🐙 GitHub: [github.com/Emily0816Lin](https://github.com/Emily0816Lin)  
 <!-- - 👨‍💻 Portfolio : [Portfolio link](Portfolio link) -->
 <!-- - 📄 Resume:  [resume link](resume link) -->
