@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emily Lin</h1>  
-<h3 align="center">💻 A Full-Stack Developer | Cloud & DevOps Engineer | AI Enthusiast</h3>  
+<h3 align="center">💻 A Full-Stack Developer | Cloud & DevOps Engineer </h3>  
 
 ---  
 ## 🚀 About Me  
-- 🎓 I'm a CS graduate focused on **Cloud Computing, AI, and DevOps**.
+- 🎓 I'm a CS graduate focused on **Cloud Computing, DevOps and AI**.
 - 🌟 I'm experienced as a **full-stack developer**, creating an admin system for a website that supports individuals with disabilities.
 - 🔭 I'm building my **personal website** to showcase and update projects.  
 - 🌱 I'm expanding my knowledge in **advanced Cloud & DevOps practices**.  
@@ -24,7 +24,7 @@
 - [Apple Pie](ADD_LINK_HERE): **QDS Hacks project** helping users build healthy habits with a **community-driven system**.  
 - [Character Guide](ADD_LINK_HERE): **Android app** introducing animated characters, built with **Kotlin**.  
 - [AWDEA](https://awdea.org/): Inclusive website for individuals with disabilities, featuring a **secure donation system** and **admin management**.  
-- [Ready Bee…Bee Ready!](https://bby-24.web.app/): Emergency preparedness planning app with secure **database** for storing plans and supply kits.  
+- [Ready Bee…Bee Ready!](https://bby-24.web.app/): Emergency preparedness planning app with **secure database** for storing plans and supply kits.  
 
 
 ---
