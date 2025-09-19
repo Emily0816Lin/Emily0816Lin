@@ -19,13 +19,13 @@
 
 ---
 ## ⭐ My Favourite Projects  
-- [AI Sleep](https://panicky-lamb-kilt.cyclic.app/): **AI-powered app** analyzing sleep quality trends using datasets and linear regression.  
-- [Steps App](https://github.com/yangela1/StepsApp): API server leveraging a **Hugging Face LLM** to process user inputs and generate location-based recommendations.  
-- [Apple Pie](ADD_LINK_HERE): **QDS Hacks project** helping users build healthy habits with a **community-driven system**.  
-- [Character Guide](ADD_LINK_HERE): **Android app** introducing animated characters, built with **Kotlin**.  
+- [AI Sleep](https://github.com/Emily0816Lin/AI_Sleep): **AI-powered app** analyzing sleep quality trends using datasets and linear regression.  
+- [AI Steps](https://github.com/Emily0816Lin/AI_Steps): API server leveraging a **Hugging Face LLM** to process user inputs and generate location-based recommendations.  
+- [Apple Pie](https://github.com/Emily0816Lin/ApplePie_QDS2024): **QDS Hacks project** helping users build healthy habits with a **community-driven system**.  
+- [Character Guide](LINK): **Android app** introducing animated characters, built with **Kotlin**.  
 - [AWDEA](https://awdea.org/): Inclusive website for individuals with disabilities, featuring a **secure donation system** and **admin management**.  
-- [Ready Bee…Bee Ready!](https://bby-24.web.app/): Emergency preparedness planning app with **secure database** for storing plans and supply kits.
-- [Course Scheduler](LINK): A role-based scheduling platform deployed on a serverless backend with automated **AWS CI/CD**.
+- [Ready Bee…Bee Ready!](https://github.com/Emily0816Lin/ReadyBee_BeeReady): Emergency preparedness planning app with **secure database** for storing plans and supply kits.
+- [Course Scheduler](https://github.com/Emily0816Lin/CourseScheduler): A role-based scheduling platform deployed on a serverless backend with automated **AWS CI/CD**.
 
 ---
 ## 🛠️ Tech Stack
