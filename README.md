@@ -19,12 +19,13 @@
 
 ---
 ## ⭐ My Favourite Projects  
-- [AISleep](https://panicky-lamb-kilt.cyclic.app/): **AI-powered app** analyzing sleep quality trends using datasets and linear regression.  
-- [StepsApp](https://github.com/yangela1/StepsApp): API server leveraging a **Hugging Face LLM** to process user inputs and generate location-based recommendations.  
+- [AI Sleep](https://panicky-lamb-kilt.cyclic.app/): **AI-powered app** analyzing sleep quality trends using datasets and linear regression.  
+- [Steps App](https://github.com/yangela1/StepsApp): API server leveraging a **Hugging Face LLM** to process user inputs and generate location-based recommendations.  
 - [Apple Pie](ADD_LINK_HERE): **QDS Hacks project** helping users build healthy habits with a **community-driven system**.  
 - [Character Guide](ADD_LINK_HERE): **Android app** introducing animated characters, built with **Kotlin**.  
 - [AWDEA](https://awdea.org/): Inclusive website for individuals with disabilities, featuring a **secure donation system** and **admin management**.  
-- [Ready Bee…Bee Ready!](https://bby-24.web.app/): Emergency preparedness planning app with **secure database** for storing plans and supply kits.  
+- [Ready Bee…Bee Ready!](https://bby-24.web.app/): Emergency preparedness planning app with **secure database** for storing plans and supply kits.
+- [Course Scheduler](LINK): A role-based scheduling platform deployed on a serverless backend with automated **AWS CI/CD**.
 
 ---
 ## 🛠️ Tech Stack
