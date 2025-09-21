@@ -14,7 +14,7 @@
 - 💼 LinkedIn: [linkedin.com/in/emily-l-54a945291](https://www.linkedin.com/in/emily-lin-54a945291/)
 - 📧 Email: [emilysmileee@gmail.com](mailto:emilysmileee@gmail.com)  
 - 🐙 GitHub: [github.com/Emily0816Lin](https://github.com/Emily0816Lin)
-- 📄 Resume:  [Click me](https://drive.google.com/file/d/1j1ga6QDvi2pm2zX2Bqzx46KAN6oTf501/view?usp=sharing) 
+- 📄 Resume:  [Click me](https://github.com/Emily0816Lin/Emily0816Lin/blob/main/Emily-Lin-Resume.pdf) 
 <!-- - 👨‍💻 Portfolio : [Portfolio link](Portfolio link) -->
 
 
